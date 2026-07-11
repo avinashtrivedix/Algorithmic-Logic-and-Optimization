@@ -35,3 +35,10 @@ if __name__ == "__main__":
         4: [2]
     }
     print(f"Shortest paths: {shortest_path(graph, 0)}") # Expected: {0:0, 1:1, 2:1, 3:2, 4:2}
+
+
+
+
+
+
+
